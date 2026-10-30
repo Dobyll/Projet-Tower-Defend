@@ -1,6 +1,6 @@
 # Tower Defend – Jeu de stratégie en C avec SDL2
 
-Projet universitaire réalisé en binôme en L2 Informatique à l'Université de Poitiers (2025-2026).
+Projet universitaire réalisé en binôme en L2 Informatique à l'Université de Poitiers.
 
 ## Le jeu
 Une horde d'unités (archers, chevaliers, dragons, gargouilles) suit un chemin sur un plateau de 11 × 19 cases pour détruire la tour du Roi. Le Roi se défend avec des tours au sol et des tours aériennes.
