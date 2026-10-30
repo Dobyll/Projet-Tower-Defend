@@ -1,0 +1,8 @@
+SDL2/
+SDL2.dll
+bin/
+obj/
+*.depend
+*.layout
+projetTowerDefend 2025-26/
+data/Terre - Copie.bmp
